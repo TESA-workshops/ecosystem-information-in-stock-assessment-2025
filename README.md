@@ -2,7 +2,7 @@
 
 ## Description 
 Fisheries and Oceans Canada continues to move towards an Ecosystem Approach to Fisheries Management. 
-With the upcoming release of an Implementation Plan and a Methods Toolbox, it is timely to have a Technical Expertise on Stock Assessment (TESA) workshop on the experiences of practitioners when including ecosystem information in single-species stock assessment models. 
+With the upcoming release of an Implementation Plan and a [Methods Toolbox](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41274702.pdf), it is timely to have a Technical Expertise on Stock Assessment (TESA) workshop on the experiences of practitioners when including ecosystem information in single-species stock assessment models. 
 Day one will consist of short talks from most participants regarding their own analytical experience and lessons learned, with longer talks from two invited external speakers. 
 Ideas for three breakout groups will be presented on day two, with participants then self-assigning into their group of interest. 
 Breakout group topics may include experiences with specific modelling platforms and custom stock-specific models, with participants requested to identify specific topics of interest in advance of the workshop. 
