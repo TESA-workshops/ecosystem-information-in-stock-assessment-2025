@@ -15,7 +15,7 @@ Methods for Incorporating Ecosystem Information into Single-Species Stock Assess
 
 ## External experts
 | Name | Institution |
-| ------ | -----| -----|
+| ------ | -----| 
 | Steve Cadrin	 | University of Massachussetts (United States) |
 | Daniel Howell	 | Institute of Marine Research (Norway) |
 | Matt Robertson | Memorial University (Canada) |
