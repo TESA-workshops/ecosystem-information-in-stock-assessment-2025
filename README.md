@@ -14,6 +14,7 @@ Methods for Incorporating Ecosystem Information into Single-Species Stock Assess
 [Hugues Benoît](mailto:Hugues.Benoit@dfo-mpo.gc.ca) (Institut Maurice-Lamontagne), [Laura Wheeland](mailto:Laura.Wheeland@dfo-mpo.gc.ca) (Northwest Atlantic Fisheries Centre) and [Andrew Edwards](Andrew.Edwards@dfo-mpo.gc.ca) (Pacific Biological Station)
 
 ## External experts
+
 | Name | Institution |
 | ------ | -----| 
 | Steve Cadrin	 | University of Massachussetts (United States) |
