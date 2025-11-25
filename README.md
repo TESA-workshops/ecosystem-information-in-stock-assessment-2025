@@ -5,7 +5,7 @@ Methods for Incorporating Ecosystem Information into Single-Species Stock Assess
 ## Logistics
 **When:** Monday November 24 to Thursday November 27 2025
 
-**Where:** [Northwest Atlantic Fisheries Centre]([https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html](https://www.dfo-mpo.gc.ca/contact/regions/newfoundland-terreneuve-eng.html)), [80 East White Hills Road St. John's, NL](https://maps.app.goo.gl/nWcKVxWjLbMAZNhf8)
+**Where:** [Northwest Atlantic Fisheries Centre](https://www.dfo-mpo.gc.ca/contact/regions/newfoundland-terreneuve-eng.html), [80 East White Hills Road St. John's, NL](https://maps.app.goo.gl/nWcKVxWjLbMAZNhf8)
 
 **Format:** In-person workshop 
 
