@@ -130,11 +130,39 @@ The goal of this breakout group will be to discuss approaches for integrating an
 
 ## Participants
 
-| Number | Region | Name |
+
+| Number | Name | Region |
 | --- | --- | --- |
-| 1 | QUE | Hugues Benoît |
-| 2 | external | Steve Cadrin |
-| 3 | PAC | Andrew Edwards |
-| 4 | external | Daniel Howell |
-| 5 | external | Matt Robertson |
-| 6 | NL | Laura Wheeland |
+| 1 | Adamack, Aaron | DFO, Newfoundland and Labrador Region |
+| 2 | Baker, Krista | DFO, Newfoundland and Labrador Region |
+| 3 | Benoît, Hugues (co-chair)| DFO, Quebec Region |
+| 4 | Boudreau, Stephanie | DFO, Gulf Region |
+| 5 | Burton, Meghan | DFO, Pacific Region |
+| 6 | Cadrin, Steve (external)| University of Massachusetts, Dartmouth |
+| 7 | Cleary, Jaclyn | DFO, Pacific Region |
+| 8 | Edwards, Andrew (co-chair)| DFO, Pacific Region |
+| 9 | Forrest, Robyn | DFO, Pacific Region |
+| 10 | Gullage, Nick | DFO, Newfoundland and Labrador Region |
+| 11 | Harbicht, Andrew | DFO, Gulf Region |
+| 12 | Hatefi, Fatemeh | DFO, Newfoundland and Labrador Region |
+| 13 | Hebert, Nathan | DFO, Maritimes Region |
+| 14 | Hedges, Kevin | DFO, Arctic Region |
+| 15 | Holt, Carrie | DFO, Pacific Region |
+| 16 | Howell, Daniel (external)| Institute of Marine Research, Bergen |
+| 17 | Koen-Alonso, Mariano | DFO, Newfoundland and Labrador | 1 | Region |
+| 18 | Mazur, Mackenzie | DFO, Pacific Region |
+| 19 | Munro, Hannah | DFO, Newfoundland and Labrador Region |
+| 20 | Neville, Victoria | DFO, Newfoundland and Labrador Region |
+| 21 | Oldford, Greig | DFO, Pacific Region |
+| 22 | Regular, Paul | DFO, Newfoundland and Labrador Region |
+| 23 | Ricard, Daniel | DFO, Gulf Region |
+| 24 | Rideout, Rick | DFO, Newfoundland and Labrador Region |
+| 25 | Robertson, Matt (external)| Marine Institute, Memorial University of Newfoundland |
+| 26 | Sylvain, François-Étienne | DFO, Gulf Region |
+| 27 | Travis Tai | DFO, Pacific Region |
+| 28 | Varkey, Divya | DFO, Newfoundland and Labrador Region |
+| 29 | Wheeland, Laura (co-chair)| DFO, Newfoundland and Labrador Region |
+| 30 | Wor, Catarina | DFO, Pacific Region |
+| 31 | Yin, Yihao | DFO, Maritimes Region |
+| 32 | Zhu, Xinhua,"DFO, Arctic Region |
+ 

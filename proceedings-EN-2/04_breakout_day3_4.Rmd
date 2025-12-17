@@ -1,0 +1,43 @@
+# Break-out Groups (Days 3 and 4) {#sec:breakout}
+
+## Plenary break-out group planning discussion 
+
+## Break-out group summaries 
+
+### When M Isn’t Constant: Ecosystem-Driven Mortality and Its Consequences for Management Advice
+
+@Klaer-etal-2015
+
+@Johnson-etal-2015
+
+@Cadigan-2016
+
+@Cadigan-2016b
+
+@Auger-Methe-etal-2016
+
+@Punt-etal-2021
+
+@Ouellette-Plante-etal-2022
+
+@Hamel-etal-2023
+
+@Hamel-etal-2023b
+
+@dfo-2024-codSAR
+
+@Regular-etal-2025-part1
+
+@Regular-etal-2025-part2
+
+@Regular-2025-part3
+
+@Benoit-etal-2025
+
+@Li-etal-2025
+
+### Incorporating qualitative ecosystem information into stock assessment models
+
+### Approaches for considering the spatial scale of environmental drivers when including those drivers in assessments 
+
+### Use of simulation and DFO’s high power computing (HPC) resources

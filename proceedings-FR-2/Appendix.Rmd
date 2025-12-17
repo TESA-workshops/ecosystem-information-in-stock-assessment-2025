@@ -1,0 +1,26 @@
+\newpage
+
+# Annexe `r new_appendix()`. Agenda et liste de participants {#app:first-appendix}
+
+## Agenda
+
+## Liste des participants
+```{r}
+my.df <- read.csv("./data/participants-FR.csv", encoding = "utf8")
+ft_1 <- flextable::qflextable(
+  my.df
+  )
+set_table_properties(ft_1, width = 1, layout = "autofit")
+
+```
+
+\newpage
+
+# Annexe `r new_appendix()`. Résumés des présentations {#app:second-appendix}
+
+\newpage
+
+# Annexe `r new_appendix()`. Sous-groupes de travail {#app:third-appendix}
+
+<!-- At the end of your appendices add: -->
+`r if(knitr:::is_latex_output()) '% end csasdown appendix'`
