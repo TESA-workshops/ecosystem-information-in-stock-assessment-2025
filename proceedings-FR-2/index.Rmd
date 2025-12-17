@@ -1,0 +1,159 @@
+---
+english_title: |
+  Proceedings of the Technical Expertise in Stock Assessment (TESA) National Workshop on ‘Methods for incorporating ecosystem information into single-species stock assessment models’, 24-27 November 2025, St. John’s, NL
+french_title: |
+  Actes de l’atelier national du Groupe d’expertise technique en évaluation des stocks (ETÉS) sur les ‘Méthodes d’intégration de l’information écosystémique dans les modèles d’évaluation des stocks d’une seule espèce’, 24-27 novembre 2025, St. John’s (Terre-Neuve-et-Labrador)
+
+english_author: |
+  Laura J. Wheeland^1^
+  Hugues P. Benoît^2^,
+  Andrew M. Edwards^3^ 
+  Mackenzie Mazur^3^ 
+  Paul Regular^1^ 
+  Matthew Robertson^4^
+  Catarina Wor^3^ 
+  Carrie Holt^3^ 
+  Meghan Burton^3^ 
+  Rick M. Rideout^1^ 
+  Victoria Neville^1^ 
+  Stephanie Boudreau^5^ 
+  Divya Varkey^1^ 
+  Travis Tai^3^ 
+  Robyn Forrest^3^ and 
+  Mariano Koen-Alonso^1^
+french_author: |
+  Laura J. Wheeland^1^
+  Hugues P. Benoît^2^,
+  Andrew M. Edwards^3^ 
+  Mackenzie Mazur^3^ 
+  Paul Regular^1^ 
+  Matthew Robertson^4^
+  Catarina Wor^3^ 
+  Carrie Holt^3^ 
+  Meghan Burton^3^ 
+  Rick M. Rideout^1^ 
+  Victoria Neville^1^ 
+  Stephanie Boudreau^5^ 
+  Divya Varkey^1^ 
+  Travis Tai^3^ 
+  Robyn Forrest^3^ et 
+  Mariano Koen-Alonso^1^
+
+english_author_list: |
+  Wheeland, L.J., Benoît, H.P., Edwards, A.M., Mazur, M., Regular, P., Robertson, M., Wor, C., Holt, C., Burton, M., Rideout, R.M., Neville, V., Boudreau, S., Varkey, D., Tai, T., Forrest, R. and Koen-Alonso, M.
+french_author_list: |
+  Wheeland, L.J., Benoît, H.P., Edwards, A.M., Mazur, M., Regular, P., Robertson, M., Wor, C., Holt, C., Burton, M., Rideout, R.M., Neville, V., Boudreau, S., Varkey, D., Tai, T., Forrest, R. et Koen-Alonso, M.
+
+english_address: |
+  ^1^Northwest Atlantic Fisheries Science Centre\
+     Fisheries and Oceans Canada\
+     80 East White Hills Road\
+     St. John's, NL, A1C 5X1, Canada\
+  ^2^Maurice-Lamontagne Institute\
+     Fisheries and Oceans Canada\
+     850 route de la Mer\
+     Mont-Joli, QC, G5H 3Z4, Canada\
+  ^3^Pacific Biological Station\
+     Fisheries and Oceans Canada\
+     3190 Hammond Bay Road\
+     Nanaimo, BC, V9T 6N7, Canada\
+  ^4^Centre for Fisheries Ecosystems Research\
+     Fisheries and Marine Institute of Memorial University of Newfoundland\
+     P.O. Box 4920\
+     St. John's, NL, Canada, A1C 5R3      
+  ^5^Gulf Fisheries Centre\
+     Fisheries and Oceans Canada\
+     343 Université Avenue\
+     Moncton, NB, E1C 9B6, Canada\
+french_address: |
+  ^1^Centre des pêches de l'Atlantique nord-ouest\
+     Pêches et Océans Canada\
+     80 rue East White Hills\
+     St. John's, NL, A1C 5X1, Canada\
+  ^2^Institut Maurice-Lamontagne\
+     Pêches et Océans Canada\
+     850 route de la Mer\
+     Mont-Joli, QC, G5H 3Z4, Canada\
+  ^3^Station biologique du Pacifique\
+     Pêches et Océans Canada\
+     3190 chemin Hammond Bay\
+     Nanaimo, CB, V9T 6N7, Canada\
+  ^4^Centre for Fisheries Ecosystems Research\
+     Fisheries and Marine Institute of Memorial University of Newfoundland\
+     P.O. Box 4920\
+     St. John's, NL, Canada, A1C 5R3      
+  ^5^Centre des Pêches du Golfe\
+     Pêches et Océans Canada\
+     343 avenue Université\
+     Moncton, NB, E1C 9B6, Canada\
+
+english_region: "Newfoundland and Labrador Region"
+french_region: "Région de Terre-Neuve et Labrador"
+
+year: "2026"
+report_number: "000"
+
+english_preamble_pages: "iv"
+french_preamble_pages: "iv"
+
+english_content_pages: "999"
+french_content_pages: "999"
+
+english_doi: "###"
+french_doi: "###"
+
+english_isbn: "###"
+french_isbn: "###"
+
+english_cat_no: "###"
+french_cat_no: "###"
+
+abstract: |
+  Here is the abstract text. It must not be more than 1/2 page (roughly 400 words).
+
+  Start new paragraphs after a blank line and with 2 spaces indent.
+
+output:
+ csasdown2::techreport_docx:
+   french: true # toggle this to switch languages
+knit: (function(input, ...) csasdown2::render()) # so the RStudio "Knit" button works
+link-citations: true
+bibliography: bib/refs.bib # adjust or list multiple if desired
+csl: csl/csas.csl
+---
+
+```{r setup, echo=FALSE, cache=FALSE, message=FALSE, results='hide', warning=FALSE}
+library(knitr)
+opts_chunk$set(
+  #  cache = TRUE, # cache all chunks?
+  #  autodep = TRUE, # try to guess which chunks depend on which in cache?
+  fig.width = 6, # 'internal' plotting figure width (inches)
+  out.width = "80%", # output plotting width; adjust here or by chunk if desired
+  fig.asp = 1 / 1.618, # golden ratio; adjust here or by chunk if desired
+  dpi = 200 # adjust to taste; larger = higher resolution but larger file size
+)
+```
+
+```{r load-libraries-csasdown}
+library(csasdown2) # for new_appendix(), current_appendix(), appendix_table_caption()
+library(flextable) # recommended package for adding tables
+```
+
+```{r table-settings}
+# recommended table settings to match CSAS table style and accessibility standards
+flextable::set_flextable_defaults(
+  font.size = 10,
+  padding.left = 3, 
+  padding.right = 3, 
+  padding.top = 1, 
+  padding.bottom = 1,
+  na_str = "-",
+  theme_fun = "theme_booktabs"
+)
+```
+
+```{r load-libraries-user}
+library(dplyr) # used in examples in template example
+library(ggplot2) # used in examples in template example
+# add more packages here as needed
+```

@@ -1,0 +1,41 @@
+# Introduction {#sec:introduction}
+
+Fisheries and Oceans Canada (DFO) continues to move towards an Ecosystem Approach to Fisheries Management (EAFM). 
+DFO’s national EAFM working group has recently wrapped up an important phase of more concerted EAFM implementation nationally. 
+This phase involved the completion of over 30 case studies across Canada and the production of four key products to further implementation of EAFM. 
+The first, termed the Gap Analysis, undertook detailed accounting of the integration of environmental variables (EVs) in fishery stock assessments in Canada. 
+The study concluded that as of 2021, 102 stock assessments (48%) made use of EVs, and that an additional 65% of the remaining 110 stocks could in the future, conditional on resources [@Kulka-etal-2022]. 
+Furthermore, current approaches used in the assessment of Canadian fish stocks were found to constitute an ad hoc collection of methods and procedures. 
+The second product, termed the Case Study Synthesis, is an in-depth review of 31 DFO case studies to better understand how ecosystem knowledge has been applied in the science-management cycle and to identify opportunities/challenges to greater integration of EVs in fisheries decision-making [@Pepin-etal-2023]. 
+The third product, termed the Fishery Management - Science EAFM Feedback Tool, is an internal DFO communication procedure to structure collaboration between DFO’s Fishery Management and Science sectors for implementing EAFM throughout the fisheries management cycle, emphasizing cross-sectoral feedback on ecosystem considerations at each step in the process. 
+Finally, the fourth key product, termed the EAFM Methods Toolbox, is an indexed and searchable database of methods and approaches for the provision of ecosystem-informed science advice [@Cogliati-etal-2025]. 
+The Toolbox outlines factors to consider when selecting a method, such as data availability, resource requirements (e.g., staff, expertise, time), and types of advice required, and provides guidance on most appropriate method(s) for a given situation. 
+An accompanying user’s guide provides brief descriptions for several methods organized according to eight general classes, providing relevant links or references [@Cogliati-etal-2025].  
+
+The recent publication of the EAFM Methods Toolbox was a key motivating factor for the DFO’s National Workshop on ‘Methods for incorporating ecosystem information into single-species stock assessment models’, which took place on 24-27 November 2025, at DFO`s Northwest Atlantic Fisheries Science Centre in St. John’s, NL. 
+The general intention for the workshop was to share practical technical knowledge across DFO regions and from/with external sources on various methods included in the Toolbox, and to identify and advance other methods and approaches that should be included in the future. 
+Another key objective for the in-person workshop was to facilitate the development of collaborations for the application and development of new methods and approaches. 
+
+The workshop was developed and hosted by DFO’s national committee on Technical Expertise in Stock Assessment (TESA), which has had a mandate since 2009 to provide training within DFO and to hold workshops that have direct relevance to DFO’s capacity to conduct stock assessment. 
+The current workshop was intended to build on the outcomes of a successful and similarly themed TESA workshop that took place in Nanaimo, BC, in November 2016, titled ‘Incorporating an ecosystem approach into single-species stock assessments’ [@Edwards-etal-2017]. 
+Considerable recent advances in the number, diversity and sophistication of methods for EAFM internationally and within DFO were also an important motivator for the present workshop. 
+
+Twenty-eight scientists from DFO and three invited experts from Norway, the United States and Memorial University of Newfoundland participated in the workshop (Figure \@ref(fig:participants); Appendix \@ref(app:first-appendix)). 
+The first day and a half was largely devoted to talks by participants, with 13 contributed talks by DFO scientists and three keynote seminars by the invited external experts (Appendix \@ref(app:second-appendix)). 
+The remainder of the workshop involved a mix of break-out group and plenary discussion sessions. 
+The agenda for the workshop and the list of participants is provided in Appendix \@ref(app:first-appendix). 
+
+```{r participants, fig.cap="Group picture of the TESA workshop participants (missing Divya Varkey, Hannah Munro)."}
+knitr::include_graphics("./images/group photo.png")
+```
+
+<!-- citations that are yet to appear in the text
+
+@Gruss-etal-2017
+
+@Kumar-etal-2019
+
+@McDonald-etal-2017
+
+@Thorson-2019
+-->
